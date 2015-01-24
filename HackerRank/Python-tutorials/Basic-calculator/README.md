@@ -37,9 +37,9 @@ Numbers are of 2 types :
 
 2. Real Numbers (eg: 2.2, -4.4, 3.99) i.e. any number with decimal values
 
-When we divide 2.3 by 4, we get 0.575 , which is a real number. But sometimes, we just want to get an integer value. In that case // operator is used which divides the two numbers, and returns an integer value. This is called integer divison.
+When we divide 2.3 by 4, we get 0.575 , which is a real number. But sometimes, we just want to get an integer value. In that case **//** operator is used which divides the two numbers, and returns an integer value. This is called integer divison.
 
-NOTE : // operation is generally used in divison of two integers.
+NOTE : **//** operation is generally used in divison of two integers.
 
 When the user enters a value, python reads it as a string. So, we need to change it from string to real number. In python, real numbers are called float data type. So when the user inputs a number, it needs to be converted to float data type. Eg:
 ```
