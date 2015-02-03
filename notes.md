@@ -1,9 +1,11 @@
 #Python Notes:
 ##Functions:
 ####Print:
-print ("string1",variable1,variable2,"string2")
+print ("string1",variable1,variable2,"string2") #default space b/w str1 and variable 1 & so on
 
 print ("string1 {0} {1} string2".formate(variable1,variable2))
+
+print ("string1 "+variable1+str(variable2) +" string2") #default space b/w str1 and variable 1 & so on #assume variable1 is string and 2 is number
 
 ####Input
 x = input()        //x will be string
